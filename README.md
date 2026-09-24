@@ -1,1 +1,3 @@
-# CICDpipeline
+# maven-project
+
+Simple Maven Project
